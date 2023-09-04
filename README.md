@@ -2,6 +2,10 @@
 
 <img src="ai.PNG"> 
 
+<h2>RESUMO</h2>
+
+<p>
+O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI900 tem por objetivo preparar o estudante para possíveis certificações da Microsoft AI-900, desenvolvendo capacidades que possibilitem ao concluinte implementar serviços cognitivos de inteligência artificial, utilizando as principais tecnologias da área disponíveis nos serviços de nuvem.</P>
 <br>
 <br>
 
