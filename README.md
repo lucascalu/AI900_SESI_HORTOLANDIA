@@ -2,7 +2,12 @@
 
 <img src="ai.PNG"> 
 
+<br>
+<br>
+
 <p>Link para acessar plataforma Microsoft Learn <a href="https://learn.microsoft.com/pt-br/users/51140266/collections/p6ppcydkn77zqn">AI 900</a></p>
+<p>Link com vídeo explicativo <a href="https://www.youtube.com/watch?v=t9yyzw2J8bo">AI 900 VÍDEO</a></p>
+
 
 <BR>
 <BR>
