@@ -21,7 +21,7 @@ O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Mic
 <br>
 <img src="cq1.PNG"> 
 <br>
-<p>Link para acessar Simulado 02 <a  href="">SIMULADO02</a></p>
+<p>Link para acessar Simulado 02 <a  href="https://docs.google.com/forms/d/e/1FAIpQLSenGcSR3M1p7jPc6iiwtIu1Ee1VSLLgNf521dyYBWUnilJLIA/viewform?usp=sf_link">SIMULADO02</a></p>
 <p>Link para acessar Simulado 03 <a  href="">SIMULADO03</a></p>
 <p>Link para acessar Simulado 04 <a  href="">SIMULADO04</a></p>
 <p>Link para acessar Simulado 05 <a  href="">SIMULADO05</a></p>
