@@ -11,7 +11,7 @@ O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Mic
 
 <p>Link para acessar plataforma Microsoft Learn <a href="https://learn.microsoft.com/pt-br/users/51140266/collections/p6ppcydkn77zqn">AI 900</a></p>
 <p>Link com vídeo explicativo <a href="https://www.youtube.com/watch?v=t9yyzw2J8bo">AI 900 VÍDEO</a></p>
-
+<p>Link para acessar Manual do Aluno <a  href="https://sumare.sp.senai.br/galeriaimagens/imageviewer.ashx?Url=30469">MANUAL</a></p>
 
 <BR>
 <BR>
