@@ -31,9 +31,16 @@ O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Mic
 <BR>
 <BR>
 
+
+
+
+
 <p>Link para acessar ATIVIDADE PRÁTICA01 <a  href="">ATIVIDADE01</a></p>
 <p>Link para acessar ATIVIDADE PRÁTICA02 <a  href="">ATIVIDADE02</a></p>
 <p>Link para acessar ATIVIDADE PRÁTICA03 <a  href="">ATIVIDADE03</a></p>
 <p>Link para acessar ATIVIDADE PRÁTICA04 <a  href="">ATIVIDADE04</a></p>
 <p>Link para acessar ATIVIDADE PRÁTICA05 <a  href="">ATIVIDADE05</a></p>
+
+<br>
+<p>CURIOSIDADES: LABORATÓRIO DA GOOGLE PARA COMPARAÇÃO DE OBJETOS OR CLASSIFICAÇÃO: https://teachablemachine.withgoogle.com/</p>
 
