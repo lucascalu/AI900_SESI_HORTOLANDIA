@@ -25,6 +25,8 @@ O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Mic
 <br>
 <img src="cq1.PNG"> 
 <br>
+<p>****************************</P>
+<p>Link conteudo aula 27/09/2023</p> <a  href="https://learn.microsoft.com/pt-br/training/paths/create-no-code-predictive-models-azure-machine-learning/">Aula 27/09/2023</a>
 
 <p>Link para acessar Simulado 03 <a  href="">SIMULADO03</a></p>
 <p>Link para acessar Simulado 04 <a  href="">SIMULADO04</a></p>
