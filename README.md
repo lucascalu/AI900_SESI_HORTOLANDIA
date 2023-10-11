@@ -31,7 +31,7 @@ O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Mic
 <p>*********************</p>
 <p>aula 11/10/2023 <a  href="https://classroom.google.com/u/2/w/NjIzMzE0Njg5OTUz/t/all">Aula 11/10/2023</a></p>
 <br>
-<p>No google sala de aula ver passo a passo de como cadastrar conta Porta da Azure</p>
+<p>No google sala de aula ver passo a passo de como cadastrar conta Portal da Azure</p>
 
 <p>Realizar mais um capitulo através do link para acessar plataforma Microsoft Learn <a href="https://learn.microsoft.com/pt-br/users/51140266/collections/p6ppcydkn77zqn">AI 900</a></p>
 <br>
