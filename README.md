@@ -38,8 +38,11 @@ O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Mic
 <p>Link para acessar Simulado 03 <a  href="https://docs.google.com/forms/d/e/1FAIpQLSdhy63KCMVMUqTa8enor4ioo7UobQKFCF3XK3huXiRxnb90Ow/viewform?usp=sf_link">SIMULADO03</a></p>
 <p>*********************</p>
 
-<p>aula 18/10/2023 <a  href="">Aula 18/10/2023</a></p>
+<p>aula 18/10/2023 <a  href="https://www.customvision.ai/">Aula 18/10/2023</a></p>
 
+<p> Em grupo montar uma classificação de imagem na plataforma custom visiom e em uma apresentação explicar o por que a mesma seria util</p>
+
+<p>Em duplas acessar o portal da azure e apontar dois recursos de Inteligência artificial e montar um pequeno relatório explicando para que serve esse recurso</p>
 
 <p>*********************</p>
 
