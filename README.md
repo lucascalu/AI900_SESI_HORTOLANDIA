@@ -44,12 +44,22 @@ O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Mic
 
 <p>Em duplas acessar o portal da azure e apontar dois recursos de Inteligência artificial e montar um pequeno relatório explicando para que serve esse recurso</p>
 
-<p>*********************</p>
-<br>
+
 <p>NÃO HAVERÁ aula 25/10/2023 </p>
+
+<br>
+
+<p>*********************</p>
+<br>
+<p>Aula 01/11/2023 </p>
+<p>Realizar atividades pendentes</p>
 <br>
 <p>*********************</p>
 <br>
+
+
+
+
 <p>Link para acessar Simulado 04 <a  href="">SIMULADO04</a></p>
 <p>Link para acessar Simulado 05 <a  href="">SIMULADO05</a></p>
 
