@@ -54,6 +54,7 @@ O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Mic
 <p>Aula 01/11/2023 </p>
 <p>Realizar atividades pendentes</p>
 <br>
+<p>Quem finalizar criar uma máquina virtual na azure instalar algum software qualquer e realizar demonstração em video</p>
 <p>*********************</p>
 <br>
 
