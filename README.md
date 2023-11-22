@@ -59,7 +59,11 @@ O curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Mic
 <br>
 
 
-
+<p>
+Aula 22/11/2023
+  <br>
+  <p>Link para acessar plataforma Microsoft Learn <a href="https://learn.microsoft.com/pt-br/users/51140266/collections/p6ppcydkn77zqn">AI 900</a></p>
+</p>
 
 <p>Link para acessar Simulado 04 <a  href="">SIMULADO04</a></p>
 <p>Link para acessar Simulado 05 <a  href="">SIMULADO05</a></p>
