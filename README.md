@@ -65,8 +65,35 @@ Aula 22/11/2023
   <p>Link para acessar plataforma Microsoft Learn <a href="https://learn.microsoft.com/pt-br/users/51140266/collections/p6ppcydkn77zqn">AI 900</a></p>
 </p>
 <p>*********************</p>
-<p>Link para acessar Simulado 04 <a  href="">SIMULADO04</a></p>
-<p>Link para acessar Simulado 05 <a  href="">SIMULADO05</a></p>
+
+<p>
+Aula 29/11/2023
+  </P>
+  <br>
+  <p>Link para acessar plataforma Microsoft Learn <a href="https://learn.microsoft.com/pt-br/users/51140266/collections/p6ppcydkn77zqn">AI 900</a></p>
+</p>
+<br>
+<p></p>iniciar pesquisa portal azure equipes até 3 alunos escolherem 2 temas</p>
+<p>*********************</p>
+
+
+<p>
+  Aula  06/12/2026
+</p>
+<br>
+<p>
+  Apresentação Pesquisa
+</p>
+
+<br>
+
+<p>Link para acessar Simulado 04 <a  href="https://docs.google.com/forms/d/e/1FAIpQLSd77uzkVtqV4vrliY8d2xgmDDF8BBfpf4zD3JV3JlTv7A2PJg/viewform?pli=1">SIMULADO04</a></p>
+<br>
+<p>
+OBS: Ultimo simulado está em formato de video
+</p>
+<p>Link para acessar Simulado 05 <a  href="https://www.youtube.com/watch?v=agbvlVGZLL8">SIMULADO05</a></p>
+
 
 <BR>
 
