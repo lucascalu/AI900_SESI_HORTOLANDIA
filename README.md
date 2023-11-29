@@ -74,6 +74,8 @@ Aula 29/11/2023
 </p>
 <br>
 <p></p>iniciar pesquisa portal azure equipes até 3 alunos escolherem 2 temas</p>
+
+<img src="azure-ai-0b1ca24d850da8a498b6b5ec668bd0d7.png"></img>
 <p>*********************</p>
 
 
